@@ -12,7 +12,8 @@
     "protocol-buffers-schema": "^2.0.1",
     "signed-varint": "^2.0.0",
     "brfs": "^1.4.0",
-    "varint": "^4.0.0"
+    "varint": "^4.0.0",
+    "bytebuffer": "^5.0.1"
   },
   "devDependencies": {
     "standard": "^5.4.1",
